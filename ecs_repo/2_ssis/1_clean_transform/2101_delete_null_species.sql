@@ -1,0 +1,6 @@
+-- DELETE ROWS WITH NULL SPECIES
+
+USE [ECS_Transform]
+GO
+
+DELETE FROM stg_raw WHERE [Species] IS NULL

@@ -1,2 +1,2 @@
 # ecs_olap
-Marjay's Proposal for Experian Coffee Services
+Marjay's Coffee OLAP
